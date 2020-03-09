@@ -1,7 +1,8 @@
 For pseudo-count based exploration experiments, please follow the follwoing instructions:
 
-For environment 'defend the line', replace lines 98-106 in file doom_pseudo.py with the following:
+## For environment 'defend the line', replace lines 98-106 in file doom_pseudo.py with the following:
 
+```
 	args.train = True
 	args.env = 'defend_the_line'
 	args.epochs = 10000
@@ -11,16 +12,17 @@ For environment 'defend the line', replace lines 98-106 in file doom_pseudo.py w
 	args.max_eps_upto = 0.0
 	args.decay_eps_upto = 1.0
 	args.bonus = True
+```
 
 Then run the following command:
 
+```
 	python3 doom.pseudo.py
+```
 
+## For environment 'defend the center', replace lines 98-106 in file doom_pseudo.py with the following:
 
-
-
-For environment 'defend the center', replace lines 98-106 in file doom_pseudo.py with the following:
-
+```
 	args.train = True
 	args.env = 'defend_the_center'
 	args.epochs = 10000
@@ -30,16 +32,17 @@ For environment 'defend the center', replace lines 98-106 in file doom_pseudo.py
 	args.max_eps_upto = 0.0
 	args.decay_eps_upto = 1.0
 	args.bonus = True
+```
 
 Then run the following command:
 
+```
 	python3 doom.pseudo.py
+```
 
+## For environment 'Seek and Destroy', replace lines 98-106 in file doom_pseudo.py with the following:
 
-
-
-For environment 'Seek and Destroy', replace lines 98-106 in file doom_pseudo.py with the following:
-
+```
 	args.train = True
 	args.env = 'simpler_basic'
 	args.epochs = 10
@@ -49,7 +52,11 @@ For environment 'Seek and Destroy', replace lines 98-106 in file doom_pseudo.py 
 	args.max_eps_upto = 0.0
 	args.decay_eps_upto = 1.0
 	args.bonus = True
+```
 
 Then run the following command:
 
+```
 	python3 doom.pseudo.py
+```
+
