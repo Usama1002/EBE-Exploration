@@ -4,7 +4,10 @@ This is the code for our experiments on Qube Servo 2 platform in our paper Entro
 # Prerequisites
 	- python3.6
 	- Pytorch 1.4.0
-	- OpenAI Gym wrapper for the Quanser Qube Servo 2 by [Blue River Tech](https://github.com/BlueRiverTech/quanser-openai-driver). Please follow [these instructions](https://github.com/BlueRiverTech/quanser-openai-driver) to install the required drivers and simulator.
+
+# Simulator and Hardware Driers
+
+We use OpenAI Gym wrapper for the Quanser Qube Servo 2 by [Blue River Tech](https://github.com/BlueRiverTech/quanser-openai-driver). Please follow [these instructions](https://github.com/BlueRiverTech/quanser-openai-driver) to install the required drivers and simulator.
 
 # How to Run
 
