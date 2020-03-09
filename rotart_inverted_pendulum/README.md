@@ -1,10 +1,10 @@
-This is the code for our experiments on Qube Servo 2 platform in our paper Entropy-Based Exploration for Reinforcement Learning. Basic skeletion of code is taken from [here] (https://github.com/g6ling/Reinforcement-Learning-Pytorch-Cartpole/tree/master/rainbow).
+This is the code for our experiments on Qube Servo 2 platform in our paper Entropy-Based Exploration for Reinforcement Learning. Basic skeletion of code is taken from [here](https://github.com/g6ling/Reinforcement-Learning-Pytorch-Cartpole/tree/master/rainbow).
 
 
 # Prerequisites
 	- python3.6
 	- Pytorch 1.4.0
-	- OpenAI Gym wrapper for the Quanser Qube Servo 2 by [Blue River Tech] (https://github.com/BlueRiverTech/quanser-openai-driver). Please follow [these instructions] (https://github.com/BlueRiverTech/quanser-openai-driver) to install the required drivers and simulator.
+	- OpenAI Gym wrapper for the Quanser Qube Servo 2 by [Blue River Tech](https://github.com/BlueRiverTech/quanser-openai-driver). Please follow [these instructions](https://github.com/BlueRiverTech/quanser-openai-driver) to install the required drivers and simulator.
 
 # How to Run
 
