@@ -43,8 +43,9 @@ For testing, the flag `--dir` represents the name of the directory that contains
 ## Testing on Simulator
 
 Use the following command to run test script on simulator.
+
 ```
-python3.6 test.py --dir /dir_name/containing/best_model.pth/in/logs/folder --sim
+	python3.6 test.py --dir /dir_name/containing/best_model.pth/in/logs/folder --sim
 ```
 
 ## Testing on Hardware Platform
@@ -52,6 +53,6 @@ python3.6 test.py --dir /dir_name/containing/best_model.pth/in/logs/folder --sim
 Use the following command to run test script on hardware Quaser Qube Servo 2.
 
 ```
-python3.6 test.py --dir /dir_name/containing/best_model.pth/in/logs/folder
+	python3.6 test.py --dir /dir_name/containing/best_model.pth/in/logs/folder
 ```
 
