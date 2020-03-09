@@ -1,4 +1,4 @@
-This is the code for our experiments on Qube Servo 2 platform in our paper Entropy-Based Exploration for Reinforcement Learning. Basic skeletion of code is taken from [here](https://github.com/g6ling/Reinforcement-Learning-Pytorch-Cartpole/tree/master/rainbow).
+This is the code for our experiments on Qube Servo 2 platform in our paper 'Learning-Driven Exploration for Reinforcement Learning'. Basic skeletion of code is taken from [here](https://github.com/g6ling/Reinforcement-Learning-Pytorch-Cartpole/tree/master/rainbow).
 
 
 # Prerequisites
