@@ -1,4 +1,4 @@
-For Breakput experiments:
+For Breakout experiments:
 
 For entropy-based exploration (EBE), please run:
 
